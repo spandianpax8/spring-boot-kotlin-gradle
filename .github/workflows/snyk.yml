@@ -35,7 +35,7 @@ jobs:
       - name: Build and Test
         run: ./gradlew build -i
         
-name: Gradle using Snyk
+name: Gradle using snyk
 
 on: workflow_dispatch
 
